@@ -6,7 +6,7 @@
 - 📫 How to reach me: You can reach me through my email and gihub 😄
 
   My skills are
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,git,githu&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,git,githu&perline=5)](https://skillicons.dev)
 
 
   
