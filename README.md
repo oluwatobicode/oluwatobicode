@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning backend development and Web 3 development 🚀
 - 📫 How to reach me: You can reach me through my email and gihub 😄
 
+  My skills are
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,git,githu&perline=3)](https://skillicons.dev)
+
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobiiiiii&layout=compact)
 
