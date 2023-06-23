@@ -7,6 +7,5 @@
 
 ![Treasure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluwatobiiiiii&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobiiiiii&layout=compact)
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobiiiiii&layout=compact)
+
