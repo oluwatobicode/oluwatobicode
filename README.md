@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning backend development and Web 3 development 🚀
 - 📫 How to reach me: You can reach me through my email and gihub 😄
 
-  My skills are
+
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,git,github)](https://skillicons.dev)
 
 
