@@ -1,3 +1,5 @@
+I'm a Software Engineer and a writer. I'm passionate about sharing knowledge, documentation, web engineering, and others. I love to teach web development in any capacity where I am needed. Here's a quick summary about me:
+
 🥷🏾 Pronouns: He/him
 
 🤖 Fun fact: I am in my 3rd year at Bowen University, where I am currently studying Computer Science.
