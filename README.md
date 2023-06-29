@@ -7,6 +7,7 @@
 😊 I am happy to contribute to open source projects and participate in hackathons
 
 💼 Job interests: Frontend Engineer, Technical Writing.
+
 🚀 You can view my resume and contact me by emailing odetokuntreasure6@gmail.com
 
 
