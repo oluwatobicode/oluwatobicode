@@ -14,14 +14,14 @@ I'm a Software Engineer and a writer. I'm passionate about sharing knowledge, do
 
 
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github)](https://skillicons.dev)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobiiiiii&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobicode&layout=compact)
 
 
-<a href="https://github.com/Oluwatobiiiiii/github-readme-stats">
+<a href="https://github.com/Oluwatobicode/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Oluwatobiiiiii&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Oluwatobiiiiii/convoychat">
+<a href="https://github.com/Oluwatobicode/convoychat">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Oluwatobiiiiii&theme=dark)](https://git.io/streak-stats" />
 </a>
