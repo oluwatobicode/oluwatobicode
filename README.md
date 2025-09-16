@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥷🏾 Pronouns: He/him<br>😊 I am happy to contribute to open source projects and participate in hackathons<br>🪴 I'm currently learning about backend development.<br>🌧️ Ask me about: Cyber-Security and Tech.<br>⚡ Fun fact: I am batman and I love to travel.
+🥷🏾 Pronouns: He/him<br>😊 I am happy to contribute to open source projects and participate in hackathons<br>🪴 I'm currently learning about backend development.<br>🌧️ Ask me about: Software Engineering and Cyber-Security.<br>⚡ Fun fact: I am batman and I love to travel.
 
 
 ## 🌐 Socials:
